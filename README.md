@@ -15,3 +15,9 @@ Completed On : 20/08/2022
 ## Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings
 
 Completed On : 20/08/2022
+
+---
+
+## Day 3 - Beginner - Control Flow and Logical Operators
+
+Completed On : 24/08/2022
