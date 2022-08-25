@@ -6,12 +6,6 @@ Started on - 20/08/2022
 
 ---
 
-**Progress**
-
-Check out the progress <u href="https://public.flourish.studio/visualisation/11007774/">here</u>.
-
----
-
 ## Day 1 - Beginner - Working with Variables in Python to Manage Data
 
 Completed On : 20/08/2022
