@@ -4,10 +4,6 @@ Notes for my 100 days of python course on Udemy.
 
 Started on - 20/08/2022
 
-**Progress Bar**
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/11007774"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 ---
 
 ## Day 1 - Beginner - Working with Variables in Python to Manage Data
