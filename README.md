@@ -21,3 +21,9 @@ Completed On : 20/08/2022
 ## Day 3 - Beginner - Control Flow and Logical Operators
 
 Completed On : 24/08/2022
+
+---
+
+## Day 4 - Beginner - Randomisation and Python Lists
+
+Completed On : 25/08/2022
