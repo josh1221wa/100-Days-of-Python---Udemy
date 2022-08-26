@@ -33,3 +33,9 @@ Completed On : 24/08/2022
 ## Day 4 - Beginner - Randomisation and Python Lists
 
 Completed On : 25/08/2022
+
+---
+
+## Day 5 - Beginner - Python Loops
+
+Completed On : 26/08/2022
