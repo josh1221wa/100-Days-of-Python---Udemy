@@ -39,3 +39,15 @@ Completed On : 25/08/2022
 ## Day 5 - Beginner - Python Loops
 
 Completed On : 26/08/2022
+
+---
+
+## Day 6 - Beginner - Functions and Karel
+
+Completed On : 29/08/2022
+
+---
+
+## Day 7 - Beginner - Hangman
+
+Completed On : 30/08/2022
