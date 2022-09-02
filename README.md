@@ -51,3 +51,9 @@ Completed On : 29/08/2022
 ## Day 7 - Beginner - Hangman
 
 Completed On : 30/08/2022
+
+---
+
+## Day 8 - Beginner - Function Parameters and the Caesar Cipher
+
+Completed On : 01/09/2022
