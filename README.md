@@ -63,3 +63,9 @@ Completed On : 01/09/2022
 ## Day 9 - Beginner - Dictionaries, Nesting and Secret Auction
 
 Completed On : 03/09/2022
+
+---
+
+## Day 10 - Beginner - Functions with Outputs
+
+Completed On : 24/09/2022
