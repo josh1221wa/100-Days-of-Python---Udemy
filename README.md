@@ -75,3 +75,14 @@ Completed On : 24/09/2022
 ## Day 11 - Beginner - The Blackjack Capstone Project
 
 Completed On : 26/09/2022
+
+---
+
+## Day 12 - Beginner - Scope and Number Guessing Game
+
+Completed On : 27/09/2022
+
+---
+
+## Day 13 - Beginner - Debugging: How to Find and Fix Errors in Your Code
+Completed On : 04/10/2022
