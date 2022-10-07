@@ -85,4 +85,11 @@ Completed On : 27/09/2022
 ---
 
 ## Day 13 - Beginner - Debugging: How to Find and Fix Errors in Your Code
+
 Completed On : 04/10/2022
+
+---
+
+## Day 14 - Beginner - Higher Lower Game Project
+
+Completed On : 07/10/2022
