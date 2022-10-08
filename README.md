@@ -93,3 +93,9 @@ Completed On : 04/10/2022
 ## Day 14 - Beginner - Higher Lower Game Project
 
 Completed On : 07/10/2022
+
+---
+
+## Day 15 - Intermediate - The Coffee Machine
+
+Completed On : 08/10/2022
