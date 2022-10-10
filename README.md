@@ -105,3 +105,9 @@ Completed On : 08/10/2022
 ## Day 16 - Intermediate - Object Oriented Programming(OOP)
 
 Completed On : 10/10/2022
+
+---
+
+## Day 17 - Intermediate - The Quiz Project and The Benefits of OOP
+
+Completed On : 10/10/2022
