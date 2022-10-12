@@ -111,3 +111,9 @@ Completed On : 10/10/2022
 ## Day 17 - Intermediate - The Quiz Project and The Benefits of OOP
 
 Completed On : 10/10/2022
+
+---
+
+## Day 18 - Intermediate - Turtle and the Graphical User Interface(GUI)
+
+Completed On : 12/10/2022
