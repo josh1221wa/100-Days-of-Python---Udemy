@@ -117,3 +117,9 @@ Completed On : 10/10/2022
 ## Day 18 - Intermediate - Turtle and the Graphical User Interface(GUI)
 
 Completed On : 12/10/2022
+
+---
+
+## Day 19 - Intermediate - Instances, State and Higher Order Functions
+
+Completed On : 13/10/2022
