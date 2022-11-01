@@ -123,3 +123,9 @@ Completed On : 12/10/2022
 ## Day 19 - Intermediate - Instances, State and Higher Order Functions
 
 Completed On : 13/10/2022
+
+---
+
+## Day 20 - Intermediate - Build the Snake Game Part 1: Animation & Coordinates
+
+Completed On : 01/11/2022
