@@ -138,6 +138,6 @@ Completed On : 02/11/2022
 
 ---
 
-## Day 21 - Intermediate - Build Pong: The Famous Arcade Game
+## Day 22 - Intermediate - Build Pong: The Famous Arcade Game
 
 Completed On : 03/11/2022
