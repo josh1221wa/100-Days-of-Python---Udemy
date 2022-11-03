@@ -135,3 +135,9 @@ Completed On : 01/11/2022
 ## Day 21 - Intermediate - Build the Snake Game Part 2: Inheritance & List Slicing
 
 Completed On : 02/11/2022
+
+---
+
+## Day 21 - Intermediate - Build Pong: The Famous Arcade Game
+
+Completed On : 03/11/2022
