@@ -141,3 +141,9 @@ Completed On : 02/11/2022
 ## Day 22 - Intermediate - Build Pong: The Famous Arcade Game
 
 Completed On : 03/11/2022
+
+---
+
+## Day 23 - Intermediate - The Turtle Crossing Capstone Project
+
+Completed On : 12/11/2022
