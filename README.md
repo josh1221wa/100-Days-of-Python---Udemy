@@ -159,3 +159,9 @@ Completed On : 12/11/2022
 ## Day 25 - Intermediate - Working with CSV Data and the Pandas Library
 
 Completed On : 26/11/2022
+
+---
+
+## Day 26 - Intermediate - List Comprehension and the NATO Alphabet
+
+Completed On : 26/11/2022
