@@ -171,3 +171,9 @@ Completed On : 26/11/2022
 ## Day 27 - Intermediate - Tkinter, *args, **kwargs and Creating GUI Programs
 
 Completed On : 27/11/2022
+
+---
+
+## Day 28 - Intermediate - Tkinter, Dynamic Typing and the Pomodoro GUI Application
+
+Completed On : 08/12/2022
