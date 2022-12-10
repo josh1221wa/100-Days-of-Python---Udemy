@@ -183,3 +183,9 @@ Completed On : 08/12/2022
 ## Day 29 - Intermediate - Building a Password Manager GUI App with Tkinter
 
 Completed On : 09/12/2022
+
+---
+
+## Day 30 - Intermediate - Errors, Exceptions and JSON Data: Improving the Password Manager
+
+Completed On : 10/12/2022
