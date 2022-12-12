@@ -189,3 +189,9 @@ Completed On : 09/12/2022
 ## Day 30 - Intermediate - Errors, Exceptions and JSON Data: Improving the Password Manager
 
 Completed On : 10/12/2022
+
+---
+
+## Day 31 - Intermediate - Flash Card App Capstone Project
+
+Completed On : 12/12/2022
