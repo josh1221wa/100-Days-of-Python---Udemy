@@ -195,3 +195,9 @@ Completed On : 10/12/2022
 ## Day 31 - Intermediate - Flash Card App Capstone Project
 
 Completed On : 12/12/2022
+
+---
+
+## Day 32 - Intermediate+ - Send Email (smtplib) & Manage Dates (datetime)
+
+Completed On : 13/12/2022
