@@ -213,3 +213,9 @@ Completed On : 14/12/2022
 ## Day 34 - Intermediate+ - API Practice - Creating a GUI Quiz App
 
 Completed On : 15/12/2022
+
+---
+
+## Day 35 - Intermediate+ - Keys, Athentication & Environment Variables - Send SMS
+
+Completed On : 23/12/2022
