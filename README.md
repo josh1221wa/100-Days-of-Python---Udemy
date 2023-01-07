@@ -225,3 +225,9 @@ Completed On : 23/12/2022
 ## Day 36 - Intermediate+ - Stock Trading News Alert Project
 
 Completed On : 06/01/2023
+
+---
+
+## Day 37 - Intermediate+ - Habit Tracking Project: API Post Requests & Headers
+
+Completed On : 07/01/2023
