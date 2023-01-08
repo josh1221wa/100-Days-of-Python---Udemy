@@ -231,3 +231,9 @@ Completed On : 06/01/2023
 ## Day 37 - Intermediate+ - Habit Tracking Project: API Post Requests & Headers
 
 Completed On : 07/01/2023
+
+---
+
+## Day 38 - Intermediate+ - Workout Tracking using Google Sheets
+
+Completed On : 07/01/2023
