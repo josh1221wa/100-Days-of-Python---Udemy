@@ -237,3 +237,9 @@ Completed On : 07/01/2023
 ## Day 38 - Intermediate+ - Workout Tracking using Google Sheets
 
 Completed On : 07/01/2023
+
+---
+
+## Day 39 - Intermediate+ Capstone - Part 1: Flight Deal Finder
+
+Completed On : 09/01/2023
