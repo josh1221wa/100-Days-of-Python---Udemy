@@ -1,11 +1,12 @@
 from twilio.rest import Client
 import confidential
+from flight_data import FlightData
 
 class NotificationManager:
     def __init__(self) -> None:
         self.client = Client(confidential.TWILIO_SID, confidential.TWILIO_AUTH)
     
-    def send_alert(self, fare, dest_city, start_airport, dest_airport, start_date, end_date):
-        text = f"Low price alert! Only £{fare} to fly from London-{start_airport} to {dest_city}-{dest_airport} from {start_date} to {end_date}"
+    def send_alert(self, flight:FlightData, start_city, dest_city):
+        text = f"Low price alert! Only £{flight.fare} to fly from {start_city}-{flight.start_city_code} to {dest_city}-{flight.dest_city_code} from {flight.start_date} to {flight.end_date}"
 
         message = self.client.messages.create(body=text, from_=confidential.TWILIO_FROM, to=confidential.TWILIO_TO)

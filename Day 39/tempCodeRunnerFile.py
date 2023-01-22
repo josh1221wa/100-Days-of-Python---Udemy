@@ -1,1 +1,0 @@
-print(city_code)
