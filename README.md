@@ -243,3 +243,9 @@ Completed On : 07/01/2023
 ## Day 39 - Intermediate+ Capstone - Part 1: Flight Deal Finder
 
 Completed On : 09/01/2023
+
+---
+
+## Day 40 - Intermediate+ Capstone - Part 2: Flight Club
+
+Completed On : 15/02/2023
