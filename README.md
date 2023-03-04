@@ -249,3 +249,9 @@ Completed On : 09/01/2023
 ## Day 40 - Intermediate+ Capstone - Part 2: Flight Club
 
 Completed On : 15/02/2023
+
+---
+
+## Day 41 - Web Foundation - Introduction to HTML
+
+Completed On : 05/03/2023
