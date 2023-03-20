@@ -255,3 +255,9 @@ Completed On : 15/02/2023
 ## Day 41 - Web Foundation - Introduction to HTML
 
 Completed On : 05/03/2023
+
+---
+
+## Day 42 - Web Foundation - Intermediate HTML
+
+Completed On : 20/03/2023
