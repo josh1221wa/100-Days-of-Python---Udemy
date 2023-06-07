@@ -252,12 +252,24 @@ Completed On : 15/02/2023
 
 ---
 
-## Day 41 - Web Foundation - Introduction to HTML
+## Day 41 - Web Foundation - Introduction to HTML Project
 
-Completed On : 05/03/2023
+Completed On : 08/06/2023
 
 ---
 
-## Day 42 - Web Foundation - Intermediate HTML
+## Day 42 - Web Foundation - Intermediate HTML Project
 
-Completed On : 20/03/2023
+Completed On : 08/06/2023
+
+---
+
+## Day 43 - Web Foundation - Introduction to CSS Project
+
+Completed On : 08/06/2023
+
+---
+
+## Day 44 - Web Foundation - Intermediate CSS Project
+
+Completed On : 08/06/2023
