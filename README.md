@@ -273,3 +273,9 @@ Completed On : 08/06/2023
 ## Day 44 - Web Foundation - Intermediate CSS Project
 
 Completed On : 08/06/2023
+
+---
+
+## Day 45 - Intermediate+ - Web Scraping with Beautiful Soup
+
+Completed On : 09/06/2023
