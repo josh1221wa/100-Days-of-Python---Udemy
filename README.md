@@ -279,3 +279,9 @@ Completed On : 08/06/2023
 ## Day 45 - Intermediate+ - Web Scraping with Beautiful Soup
 
 Completed On : 09/06/2023
+
+---
+
+## Day 46 - Intermediate+ - Create a Spotify Playlist using the Musical Time Machine
+
+Completed On : 13/06/2023
