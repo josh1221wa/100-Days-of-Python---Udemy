@@ -291,3 +291,15 @@ Completed On : 13/06/2023
 ## Day 47 - Intermediate+ - Create an Automated Amazon Price Tracker
 
 Completed On : 14/06/2023
+
+---
+
+## Day 48 - Intermediate+ - Selenium Webdriver Browser and Game Playing Bot
+
+Completed On : 20/06/2023
+
+---
+
+## Day 49 - Intermediate+ - Automating Job Applications on LinkedIn
+
+Completed On : 21/06/2023
