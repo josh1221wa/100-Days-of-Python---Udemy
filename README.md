@@ -274,7 +274,7 @@ Completed On : 08/06/2023
 
 Completed On : 08/06/2023
 
----
+-\*--
 
 ## Day 45 - Intermediate+ - Web Scraping with Beautiful Soup
 
@@ -301,5 +301,17 @@ Completed On : 20/06/2023
 ---
 
 ## Day 49 - Intermediate+ - Automating Job Applications on LinkedIn
+
+Completed On : 21/06/2023
+
+---
+
+## Day 50 - Intermediate+ - Auto Tinder Swiping Bot
+
+SKIPPED - Account related issues
+
+---
+
+## Day 51 - Intermediate+ - Internet Speed Twitter Complaint Bot
 
 Completed On : 21/06/2023
