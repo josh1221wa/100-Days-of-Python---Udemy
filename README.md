@@ -315,3 +315,9 @@ SKIPPED - Account related issues
 ## Day 51 - Intermediate+ - Internet Speed Twitter Complaint Bot
 
 Completed On : 21/06/2023
+
+---
+
+## Day 52 - Intermediate+ - Instagram Follower Bot
+
+Completed On : 22/06/2023
