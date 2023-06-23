@@ -321,3 +321,9 @@ Completed On : 21/06/2023
 ## Day 52 - Intermediate+ - Instagram Follower Bot
 
 Completed On : 22/06/2023
+
+---
+
+## Day 53 - Intermediate+ Web Scraping Capstone - Data Entry Job Automation
+
+Completed On : 23/06/2023
