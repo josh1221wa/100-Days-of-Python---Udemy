@@ -13,6 +13,7 @@ def hello():
     return "Hello, World!"
 
 @app.route("/bye")
+# When the user goes to the url /bye, this particular function will be executed.
 def bye():
     return "Bye!"
 
