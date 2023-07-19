@@ -327,3 +327,9 @@ Completed On : 22/06/2023
 ## Day 53 - Intermediate+ Web Scraping Capstone - Data Entry Job Automation
 
 Completed On : 23/06/2023
+
+---
+
+## Day 54 - Intermediate+ Introduction to Web Development with Flask
+
+Completed On : 18/07/2023
