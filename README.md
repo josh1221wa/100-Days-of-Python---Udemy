@@ -333,3 +333,9 @@ Completed On : 23/06/2023
 ## Day 54 - Intermediate+ Introduction to Web Development with Flask
 
 Completed On : 18/07/2023
+
+---
+
+## Day 55 - Intermediate+ HTML and URL Passing in Flask and the Higher Lower Game
+
+Completed On : 20/07/2023
