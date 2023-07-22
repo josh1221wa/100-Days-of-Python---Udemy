@@ -339,3 +339,7 @@ Completed On : 18/07/2023
 ## Day 55 - Intermediate+ HTML and URL Passing in Flask and the Higher Lower Game
 
 Completed On : 20/07/2023
+
+## Day 56 - Intermediate+ Rendering HTML/Static Files and Using Website Templates
+
+Completed On : 23/07/2023
