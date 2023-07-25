@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+
+    <body>
+        <!-- URL Building is finding the corresponding function to a jinja url. This can be done by using a method called url_for. The argument for this can be the function with respect to the page -->
+
+        <a href="{{ url_for('blog') }}">Go To Blog</a>
+
+        <!-- We can also add kwargs to this function to pass in the server -->
+
+        <!-- <a href="{{ url_for('blog', num=3) }}">Go To Blog3</a> -->
+    </body>
+
+</html>

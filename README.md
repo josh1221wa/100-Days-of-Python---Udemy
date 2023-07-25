@@ -343,3 +343,7 @@ Completed On : 20/07/2023
 ## Day 56 - Intermediate+ Rendering HTML/Static Files and Using Website Templates
 
 Completed On : 23/07/2023
+
+## Day 57 - Intermediate+ Templating with Jinja in Flask Applications
+
+Completed On : 25/07/2023
