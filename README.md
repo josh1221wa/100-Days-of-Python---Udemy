@@ -359,3 +359,9 @@ Completed On : 25/07/2023
 Completed On : 30/07/2023
 
 ---
+
+## Day 59 - Advanced - Blog Capstone Project Part 2 - Adding Styling
+
+Completed On : 31/07/2023
+
+---
