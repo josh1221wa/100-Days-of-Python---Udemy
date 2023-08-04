@@ -365,3 +365,9 @@ Completed On : 30/07/2023
 Completed On : 31/07/2023
 
 ---
+
+## Day 60 - Advanced - Make POST Requests with Flask and HTML Forms
+
+Completed On : 04/08/2023
+
+---
