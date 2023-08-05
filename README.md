@@ -371,3 +371,9 @@ Completed On : 31/07/2023
 Completed On : 04/08/2023
 
 ---
+
+## Day 61 - Advanced - Building Advanced Forms with Flask-WTForms
+
+Completed On : 05/08/2023
+
+---
