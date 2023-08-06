@@ -377,3 +377,9 @@ Completed On : 04/08/2023
 Completed On : 05/08/2023
 
 ---
+
+## Day 62 - Advanced - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+
+Completed On : 06/08/2023
+
+---
