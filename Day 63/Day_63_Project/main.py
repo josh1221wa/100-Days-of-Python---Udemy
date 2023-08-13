@@ -43,7 +43,7 @@ def edit():
         db.select(Books).where(id == Books.id)).scalars().all()[0]
     if request.method == "GET":
         return render_template("edit.html", book=book_)
-    elif request.method == "POST":
+    else:
         book_.rating = request.form['new_rating']
         db.session.commit()
         return redirect("/")
