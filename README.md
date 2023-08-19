@@ -395,3 +395,15 @@ Completed On : 09/08/2023
 Completed On : 14/08/2023
 
 ---
+
+## Day 65 - Web Design School - How To Create a Website People will Love
+
+SKIPPED - NOT RELATED TO GOALS
+
+---
+
+## Day 66 - Advanced - Building your own API with RESTful Routing
+
+Completed On : 19/08/2023
+
+---
