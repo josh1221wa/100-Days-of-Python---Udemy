@@ -407,3 +407,9 @@ SKIPPED - NOT RELATED TO GOALS
 Completed On : 19/08/2023
 
 ---
+
+## Day 67 - Advanced - Blog Capstone Project Part 3 - RESTful Routing
+
+Completed On : 19/08/2023
+
+---
