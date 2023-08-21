@@ -413,3 +413,9 @@ Completed On : 19/08/2023
 Completed On : 19/08/2023
 
 ---
+
+## Day 68 - Advanced - Authentication with Flask
+
+Completed On : 21/08/2023
+
+---
