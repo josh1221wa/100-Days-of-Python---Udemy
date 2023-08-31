@@ -419,3 +419,9 @@ Completed On : 19/08/2023
 Completed On : 21/08/2023
 
 ---
+
+## Day 69 - Advanced - Blog Capstone Project Part 4 - Adding Users
+
+Completed On : 31/08/2023
+
+---
