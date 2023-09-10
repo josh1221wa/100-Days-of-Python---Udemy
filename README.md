@@ -425,3 +425,15 @@ Completed On : 21/08/2023
 Completed On : 31/08/2023
 
 ---
+
+## Day 70 - Advanced - Git, Github and Version Control
+
+Completed On : 07/09/2023
+
+---
+
+## Day 71 - Advanced - Deploying your Web Application
+
+Completed On : 10/09/2023
+
+---
