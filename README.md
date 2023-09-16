@@ -437,3 +437,9 @@ Completed On : 07/09/2023
 Completed On : 10/09/2023
 
 ---
+
+## Day 72 - Advanced - Data Exploration with Pandas: College Major v.s. Your Salary
+
+Completed On : 16/09/2023
+
+---
