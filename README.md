@@ -443,3 +443,9 @@ Completed On : 10/09/2023
 Completed On : 16/09/2023
 
 ---
+
+## Day 73 - Advanced - Data Visualization with Matplotlib: Programming Languages
+
+Completed On : 17/09/2023
+
+---
