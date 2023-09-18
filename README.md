@@ -449,3 +449,9 @@ Completed On : 16/09/2023
 Completed On : 17/09/2023
 
 ---
+
+## Day 74 - Advanced - Aggregate and Merge Data with Pandas: Analyse the LEGO Dataset
+
+Completed On : 18/09/2023
+
+---
