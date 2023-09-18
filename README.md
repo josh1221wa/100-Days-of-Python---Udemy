@@ -455,3 +455,9 @@ Completed On : 17/09/2023
 Completed On : 18/09/2023
 
 ---
+
+## Day 75 - Advanced - Google Trends Data: Resampling and Visualizing Time Series
+
+Completed On : 18/09/2023
+
+---
