@@ -461,3 +461,9 @@ Completed On : 18/09/2023
 Completed On : 18/09/2023
 
 ---
+
+## Day 76 - Advanced - Beautiful Plotly Charts and Analyzing the Android App Store
+
+Completed On : 18/09/2023
+
+---
