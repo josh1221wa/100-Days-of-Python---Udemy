@@ -473,3 +473,9 @@ Completed On : 25/09/2023
 Completed On : 27/09/2023
 
 ---
+
+## Day 78 - Advanced - Linear Regression and Data Visualization with Seaborn
+
+Completed On : 02/10/2023
+
+---
