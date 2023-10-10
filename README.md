@@ -479,3 +479,9 @@ Completed On : 27/09/2023
 Completed On : 02/10/2023
 
 ---
+
+## Day 79 - Advanced - Analyse the Nobel Prize with Plotly, Matplotlib and Seaborn
+
+Completed On : 10/10/2023
+
+---
