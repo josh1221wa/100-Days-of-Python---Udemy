@@ -491,3 +491,9 @@ Completed On : 10/10/2023
 Completed On : 11/10/2023
 
 ---
+
+## Day 81 - Advanced - Capstone Project - Predict House Prices
+
+Completed On : 12/10/2023
+
+---
